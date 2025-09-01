@@ -1,0 +1,88 @@
+{
+  "game": "minecraft",
+  "formatVersion": 1,
+  "versionId": "1.0.0",
+  "name": "FeoLand ModPack",
+  "summary": "",
+  "files": [
+    {
+      "path": "mods/placeholder-api-2.6.4+1.21.5.jar",
+      "hashes": {
+        "sha1": "db8f916f040cb21efc395ca9e4d988f8a75f42d4",
+        "sha512": "587e93144be63a7df97e66d745fbbe4597d06cf03b723fe8fb3cf3ee98ca8d1dd155a8ffc09e46b546f1c9eccbbd33473900c5908546405e458945171024b80b"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/eXts2L7r/versions/8x0q8gHM/placeholder-api-2.6.4%2B1.21.5.jar"
+      ],
+      "fileSize": 257878
+    },
+    {
+      "path": "mods/modmenu-14.0.0-rc.2.jar",
+      "hashes": {
+        "sha1": "cdcbe5d129ca9939c3c95a09b3d6fd1ed5513edd",
+        "sha512": "091953cac8e7657b99f794d97ac8ca321c4eb3e8eafbadeb62ccbe7991ea83aa1c5c7d91817c61940fcf5ab84f946be393ba8727828ac74035626963ee668d39"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/mOgUt4GM/versions/T7GjZmwP/modmenu-14.0.0-rc.2.jar"
+      ],
+      "fileSize": 1069680
+    },
+    {
+      "path": "mods/Xaeros_Minimap_25.2.10_Fabric_1.21.5.jar",
+      "hashes": {
+        "sha1": "af7b39d24ec431eeb64b491ceb67bdfc5f412c5c",
+        "sha512": "6bc2404abf482a652826f69b223d6889355d9d651749ca039740b882b631946c21f2037f48d2ae1eacbf2daea77e1504ba2d7f92a187fc4071eda89b7ddab69e"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/1bokaNcj/versions/IOtamBGG/Xaeros_Minimap_25.2.10_Fabric_1.21.5.jar"
+      ],
+      "fileSize": 1661282
+    },
+    {
+      "path": "mods/fabric-api-0.128.2+1.21.5.jar",
+      "hashes": {
+        "sha512": "0e42b72d1a63a45c1b64cdabafd15f4d236bbda5521964d687afa1f833d4022f96c7ffab5dd4471aba0190be588f092d156bf14a50b794895fb3286ec899bcf7",
+        "sha1": "920dea0ac4ff08f539099215eace9fda3e3fb2e3"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/P7dR8mSH/versions/kKEGlsne/fabric-api-0.128.2%2B1.21.5.jar"
+      ],
+      "fileSize": 2248994
+    },
+    {
+      "path": "mods/lithium-fabric-0.16.3+mc1.21.5.jar",
+      "hashes": {
+        "sha1": "eaa7ef4e1dba9006dd216bb310eb8ec3dccd84bc",
+        "sha512": "42d1538caa913bb35e76208efc14bce3e89fb01e8dbd7cf2a3b8576377d83d2d2f63a207cb7b6f081e20b00e5edff8d01e94a52d89e8c9ce9e3dfecc3fac4d78"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/xcELvp6R/lithium-fabric-0.16.3%2Bmc1.21.5.jar"
+      ],
+      "fileSize": 791052
+    }
+  ],
+  "dependencies": {
+    "minecraft": "1.21.5",
+    "fabric-loader": "0.17.2"
+  }
+}
